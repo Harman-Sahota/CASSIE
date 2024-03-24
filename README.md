@@ -3,4 +3,4 @@ A machine learning model trained on conversation dataset of 20000 lines, transfo
 
 
 
-- main model file  and training data files not uploaded due to privacy and security reasibs
+- main model file  and training data files not uploaded due to privacy and security reasons
